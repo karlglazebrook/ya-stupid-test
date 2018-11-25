@@ -1,4 +1,4 @@
 # ya-stupid-test
-yet another stupid test from me2222244
+yet another stupid test from me
 
 
