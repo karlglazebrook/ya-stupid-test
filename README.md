@@ -1,5 +1,5 @@
 # ya-stupid-test
-zzzzyyet another stupid test from me666
+yet another stupid test from me666
 
 
 
